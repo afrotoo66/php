@@ -8,7 +8,7 @@
 		"php",
 		"telethon"
 	],
-	"repository": "https://github.com/Source-Ze/RashqZe1",
+	"repository": "https://github.com/afrotoo66/php",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
